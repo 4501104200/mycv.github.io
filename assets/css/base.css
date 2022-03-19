@@ -1,0 +1,43 @@
+html{
+    font-family: "Roboto", sans-serif;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.t-white{
+    color: #fff;
+}
+
+.t-black{
+    color: #000;
+}
+
+.t-center{
+    text-align: center;
+}
+
+.s-30{
+    font-size: 30px;
+}
+
+.s-18{
+    font-size: 18px;
+}
+
+.mgr-20{
+    margin-right: 20px;
+}
+
+.border-icon{
+    border-radius: 30px;
+    padding: 10px;
+    border: 1px solid #fff;
+    margin: 30px 15% 5px;
+    background-image: linear-gradient(to right, rgb(0, 51, 128), rgb(114, 122, 214));
+
+}
+
